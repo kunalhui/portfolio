@@ -1,0 +1,160 @@
+body
+{
+  background-color: #db2518;
+}
+
+
+.firstdiv
+{
+  color:black;
+  font-family: "calibri";
+  font-size: 25px;
+  margin: 50px 10px 10px 30px
+}
+
+.seconfdiv
+{
+  color:black;
+  font-family: "calibri";
+  font-size: 17px;
+  margin: 10px 10px 10px 30px
+}
+
+.thirddiv
+{
+  color:black;
+  font-family: "calibri";
+  font-size: 15px;
+  margin: 30px 10px 10px 40px
+}
+
+div
+{
+  background: :White;
+}
+
+#Top1
+{
+  color:White;
+  font-family: "calibri";
+  font-size: 30px;
+  text-align: center;
+  /*top right buttom left*/
+  margin: auto;
+  /*padding: 30px 10px 10px 40px;*/
+  /*border: 4px solid black;*/
+}
+
+#Top2
+{
+  color:White;
+  font-family: "calibri";
+  font-size: 15px;
+  text-align: center;
+  /*top right buttom left*/
+  margin: auto
+  /*padding: 30px 10px 10px 40px;*/
+  /*border: 4px solid black;*/
+
+}
+
+#img1
+{
+  width: 100%;
+  height: auto%;
+}
+
+#img2
+{
+  width: 100%;
+  height: auto;
+}
+#img3
+{
+  width: 100%;
+  height: auto;
+}
+#img4
+{
+  width: 100%;
+  height: auto;
+}
+
+#img5
+{
+  width: 100%;
+  height: auto;
+}
+#img6
+{
+  width: 100%;
+  height: auto;
+}
+
+
+
+td
+{
+
+  height: 400px;
+  width: 400px;
+
+}
+
+.art
+{
+  margin: auto;
+}
+
+.artt
+{
+  margin: auto;
+  padding: 10px;
+}
+
+#one
+{
+  width: 32%;
+  height: auto;
+}
+#two
+{
+  width: 32%;
+  height: auto;
+}
+
+#three
+{
+  width: 32%;
+  height: auto;
+}
+#four
+{
+  width: 32%;
+  height: auto;
+}
+#five
+{
+  width: 32%;
+  height: auto;
+}
+#six
+{
+  width: 32%;
+  height: auto;
+}
+
+#seven
+{
+  width: 32%;
+  height: auto;
+  background: black;
+}
+
+#eight
+{
+  width: 32%;
+  height: auto;
+  background: black;
+
+}
